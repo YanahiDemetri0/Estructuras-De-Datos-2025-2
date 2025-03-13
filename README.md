@@ -2,7 +2,7 @@
 
 Hola, aquí subiré los códigos de las implementaciones que hagamos en labboratorio
 
-# Temas
+# Temas vistos 
 -Tipos de datos abstractos
 
 -Clases genéricas
