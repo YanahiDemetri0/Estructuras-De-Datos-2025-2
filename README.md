@@ -4,7 +4,11 @@ Hola, aquí subiré los códigos de las implementaciones que hagamos en labborat
 
 # Temas
 -Tipos de datos abstractos
+
 -Clases genéricas
+
 -Arreglos y recursión.
+
 -Backtracking
+
 -Listas
